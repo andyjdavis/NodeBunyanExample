@@ -1,6 +1,2 @@
-{"name":"myapp","hostname":"thinky-PC","pid":6000,"level":50,"msg":"Just an error message with nothing else","time":"2016-08-21T13:09:28.005Z","v":0}
-{"name":"myapp","hostname":"thinky-PC","pid":1424,"level":50,"msg":"Just an error message with nothing else","time":"2016-08-21T13:12:10.820Z","v":0}
-{"name":"myapp","hostname":"thinky-PC","pid":2228,"level":50,"msg":"Just an error message with nothing else","time":"2016-08-21T13:13:49.141Z","v":0}
-{"name":"myapp","hostname":"thinky-PC","pid":1660,"level":50,"msg":"Just an error message with nothing else","time":"2016-08-21T13:16:26.036Z","v":0}
-{"name":"myapp","hostname":"thinky-PC","pid":4208,"level":50,"msg":"Just an error message with nothing else","time":"2016-08-21T13:16:35.549Z","v":0}
-{"name":"myapp","hostname":"thinky-PC","pid":912,"level":50,"msg":"Just an error message with nothing else","time":"2016-08-21T13:19:38.277Z","v":0}
+{"name":"myapp","hostname":"thinky-PC","pid":6032,"level":50,"msg":"Just an error message with nothing else","time":"2016-08-21T13:30:59.824Z","v":0}
+{"name":"myapp","hostname":"thinky-PC","pid":6032,"level":50,"msg":"After getting rid of info logger this should be logged","time":"2016-08-21T13:30:59.825Z","v":0}
