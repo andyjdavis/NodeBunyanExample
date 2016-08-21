@@ -1,0 +1,2 @@
+{"name":"myapp","hostname":"thinky-PC","pid":6000,"level":30,"favColor":"blue","msg":"logging user favourite color","time":"2016-08-21T13:09:28.003Z","v":0}
+{"name":"myapp","hostname":"thinky-PC","pid":6000,"level":50,"msg":"Just an error message with nothing else","time":"2016-08-21T13:09:28.005Z","v":0}
