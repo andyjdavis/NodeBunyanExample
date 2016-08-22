@@ -1,3 +1,3 @@
-{"name":"myapp","hostname":"thinky-PC","pid":6032,"level":30,"favColor":"blue","msg":"logging user favourite color","time":"2016-08-21T13:30:59.822Z","v":0}
-{"name":"myapp","hostname":"thinky-PC","pid":6032,"level":50,"msg":"Just an error message with nothing else","time":"2016-08-21T13:30:59.824Z","v":0}
-{"name":"myapp","hostname":"thinky-PC","pid":6032,"level":30,"currentLevels":[30,50],"msg":"The current log levels","time":"2016-08-21T13:30:59.825Z","v":0}
+{"name":"myapp","hostname":"thinky-PC","pid":5044,"level":30,"favColor":"blue","msg":"logging user favourite color","time":"2016-08-22T13:04:40.510Z","v":0}
+{"name":"myapp","hostname":"thinky-PC","pid":5044,"level":50,"msg":"Just an error message with nothing else","time":"2016-08-22T13:04:40.512Z","v":0}
+{"name":"myapp","hostname":"thinky-PC","pid":5044,"level":30,"currentLevels":[30,50],"msg":"The current log levels","time":"2016-08-22T13:04:40.512Z","v":0}
